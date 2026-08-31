@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background: rgb(252, 252, 252);height : 50px;
+    background: rgb(252, 252, 252);
 }
 
 main {
@@ -14,5 +14,5 @@ main {
 }
 
 footer {
-    background: rgb(0, 0, 0); height: 25px;
+    background: rgb(0, 0, 0);
 }
